@@ -3,20 +3,29 @@ main:
   - title: "关于小菁"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#-news"
+  - title: "最新消息"
+    url: "/#-最新消息"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "IP设计"
+    url: "/#-IP设计"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "多格漫画"
+    url: "/#-衍生产品：多格漫画"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "表情包"
+    url: "/#-衍生产品：表情包"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "药品信息图"
+    url: "/#-衍生产品：药品信息图"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "周边文创"
+    url: "/#-衍生产品：周边文创"
+    
+  - title: "设计思路"
+    url: "/#-设计思路"
+
+  - title: "设计难点"
+    url: "/#-设计难点"
+
+  - title: "作者们的话"
+    url: "/#-作者们的话"
