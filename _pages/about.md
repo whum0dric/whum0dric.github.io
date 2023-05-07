@@ -46,7 +46,7 @@ redirect_from:
 
 
 
-# 🖌️ IP Design
+# ✍️ IP Design
 
 IP设计
 
@@ -84,7 +84,7 @@ IP设计
 
 
 
-# 🛍️ Ethnic Cultural Products
+# 🎁 Ethnic Cultural Products
 
 衍生产品：周边文创
 
@@ -102,7 +102,7 @@ IP设计
 
 
 
-# ⚠️ Obstacles
+# 💪 Obstacles
 
 设计难点
 
