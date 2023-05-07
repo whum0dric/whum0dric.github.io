@@ -4,13 +4,13 @@ main:
     url: "/#about-me"
 
   - title: "最新消息"
-    url: "/#-最新消息"
+    url: "/#-news"
 
   - title: "IP设计"
-    url: "/#-IP设计"
+    url: "/#-ip-design"
           
   - title: "多格漫画"
-    url: "/#-多格漫画"
+    url: "/#-Comics"
 
   - title: "表情包"
     url: "/#-表情包"
