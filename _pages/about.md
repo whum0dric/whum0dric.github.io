@@ -12,11 +12,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-计算机设计大赛数媒静态作品：“天精地华，济世益民”——《本草纲目》拟人IP创作及文创衍生设计
 
-采药女-灵小菁的个人主页
 
-你好呀，我是采药女灵小菁。
+你好呀，我是采药女灵小菁😊。这里是我的个人主页，
 
 我们从《本草纲目》这一经典中医学著作入手，设计了一款“采药女-灵小菁”主IP及多款草药“药灵”IP：
 
@@ -31,11 +29,10 @@ redirect_from:
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
@@ -47,17 +44,55 @@ redirect_from:
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 设计思路及难点
 - 
+
+# 🧑‍🎨 IP设计
+
+
+
+衍生产品：多格漫画
+
+
+
+衍生产品：表情包
+
+
+
+衍生产品：药品信息图
+
+
+
+衍生产品：周边文创
+
+
+
+
+
+# 💡 设计思路
+
+
+
+
+
+
+
+
+
+# 😢 设计难点
+
+
+
+
+
+
+
+
+
+
+
+# 💬 作者们的话
+
+
+
+
+
