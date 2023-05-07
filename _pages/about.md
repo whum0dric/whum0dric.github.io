@@ -84,7 +84,7 @@ IP设计
 
 
 
-# 🎁 Ethnic Cultural Products
+# 🎁 Cultural Products
 
 衍生产品：周边文创
 
