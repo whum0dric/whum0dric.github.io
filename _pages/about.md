@@ -46,7 +46,7 @@ redirect_from:
 
 
 
-# ✍️ Figure Design
+# ✍ Figure Design
 
 IP设计
 
