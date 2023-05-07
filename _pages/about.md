@@ -24,8 +24,8 @@ redirect_from:
 
 
 
+# 🔥 News
 
-# 🔥 最新消息
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">show pics</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -33,7 +33,17 @@ redirect_from:
 
 
 
-# 🖌️ IP设计
+# 🖌️ IP Design
+
+IP设计
+
+
+
+
+
+# 🎨 Comics
+
+衍生产品：多格漫画
 
 
 
@@ -41,7 +51,47 @@ redirect_from:
 
 
 
-# 🎨 衍生产品：多格漫画
+# 😉 Emoji
+
+衍生产品：表情包
+
+
+
+
+
+
+
+# 🌿 Herb Info
+
+衍生产品：药品信息图
+
+
+
+
+
+
+
+# 🛍️ Ethnic Cultural Products
+
+衍生产品：周边文创
+
+
+
+
+
+# 💡 Thoughts of Design
+
+设计思路
+
+
+
+
+
+
+
+# ⚠️ Obstacles
+
+设计难点
 
 
 
@@ -51,59 +101,9 @@ redirect_from:
 
 
 
-# 😉 衍生产品：表情包
+# 💬 Our Messages
 
-
-
-
-
-
-
-
-
-# 🌿 衍生产品：药品信息图
-
-
-
-
-
-
-
-
-
-# 🛍️ 衍生产品：周边文创
-
-
-
-
-
-
-
-# 💡 设计思路
-
-
-
-
-
-
-
-
-
-# ⚠️ 设计难点
-
-
-
-
-
-
-
-
-
-
-
-# 💬 作者们的话
-
-
+作者们的话
 
 
 
