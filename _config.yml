@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "采药女-灵小菁的主页"
+description              : "计算机设计大赛数媒静态作品：“天精地华，济世益民”——《本草纲目》拟人IP创作及文创衍生设计。 "
+repository               : "Rain-YDY/Rain-YDY.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "采药女-灵小菁"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "计设2023数媒静态作品"
+  bio              : "武汉大学"
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
