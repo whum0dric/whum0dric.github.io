@@ -4,30 +4,28 @@ main:
     url: "/#about-me"
 
   - title: "最新消息"
-    url: "/#-news"
-
+    url: "/#-最新消息"
 
   - title: "IP设计"
-    url: "/#-ip-design"
-
+    url: "/#-IP设计"
           
   - title: "多格漫画"
-    url: "/#-comics"
+    url: "/#-多格漫画"
 
   - title: "表情包"
-    url: "/#-emoji"
+    url: "/#-表情包"
 
   - title: "药品信息图"
-    url: "/#-herb-info"
+    url: "/#-药品信息图"
 
   - title: "周边文创"
-    url: "/#-ethnic-cultural-products"
+    url: "/#-周边文创"
     
   - title: "设计思路"
-    url: "/#-thoughts-of-design"
+    url: "/#-设计思路"
 
   - title: "设计难点"
-    url: "/#-obstacles"
+    url: "/#-设计难点"
 
   - title: "作者们的话"
-    url: "/#-our-messages"
+    url: "/#-作者们的话"

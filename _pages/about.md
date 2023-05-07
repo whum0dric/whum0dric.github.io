@@ -24,12 +24,25 @@ redirect_from:
 
 
 
-# 🔥 News
+# 🔥 最新消息
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">show pics</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -104,6 +117,11 @@ IP设计
 # 💬 Our Messages
 
 作者们的话
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">show pics</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 
 
