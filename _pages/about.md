@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+
 ---
 
 
@@ -33,8 +34,6 @@ redirect_from:
 **【形象设计】**
 
 这里是小菁和姐妹们的IP设计图！
-
-
 
 <img src="https://rainjamesy-image-host.oss-cn-beijing.aliyuncs.com/img/%E6%B5%B7%E6%8A%A5%E5%BB%B6%E5%B1%95-%E7%81%B5%E5%B0%8F%E8%8F%81%EF%BC%88%E9%87%87%E8%8D%AF%E5%A5%B3%EF%BC%89.jpg" alt="海报延展-灵小菁（采药女）"  />
 
@@ -140,7 +139,7 @@ redirect_from:
 
 # 💡 Thoughts of Design
 
-**设计思路**
+**【设计思路】**
 
 我们从《本草纲目》这一经典中医学著作入手，设计了一款“采药女-灵小菁”主IP及多款草药“药灵”IP，旨在以拟人化IP的形式宣传传统中医药文化，在当今中医药文化宣传同质化严重的情况下，打造一系列的《本草纲目》药灵IP形象，向人们传递“中医药”主题的国家品牌信息，让人们被拟人化IP所独有的憨态可掬的萌属性所吸引，大大降低了记忆传播成本，引起了网友的积极互动，提高了“《本草纲目》”乃至“中草药文化”这个中国品牌成功刷屏的几率，增强国家文化自信。
 
@@ -156,7 +155,7 @@ redirect_from:
 
 # 💬 Our Messages
 
-作者们的话
+**【作者们的话】**
 
 设计不易，希望大家喜欢！
 
