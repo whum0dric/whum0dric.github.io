@@ -30,6 +30,8 @@ redirect_from:
 
 # ✍ Figure Design
 
+<a id="IP图"></a>
+
 **【形象设计】**
 
 这里是小菁和姐妹们的IP设计图！
@@ -62,6 +64,8 @@ redirect_from:
 
 # 🎨 Comics
 
+<a id="漫画"></a>
+
 **【漫画设计】**
 
 和小菁一起看漫画！更多漫画创作正在火热进行中！！！
@@ -86,6 +90,8 @@ redirect_from:
 
 # 😉 Emoji
 
+<a id="表情包"></a>
+
 **【表情包设计】**
 
 小菁的表情包上线啦，欢迎自取使用喔！
@@ -101,6 +107,8 @@ redirect_from:
 
 
 # 🌿 Herb Info
+
+<a id="信息图"></a>
 
 **【药品信息图】**
 
@@ -122,6 +130,8 @@ redirect_from:
 
 # 🎁 Cultural Products
 
+<a id="文创"></a>
+
 **【周边文创】**
 
 | <img src="https://rainjamesy-image-host.oss-cn-beijing.aliyuncs.com/img/%E6%96%87%E5%88%9B%E4%BA%A7%E5%93%81%20(1).jpg" alt="文创产品 (1)"  /> | <img src="https://rainjamesy-image-host.oss-cn-beijing.aliyuncs.com/img/%E6%96%87%E5%88%9B%E4%BA%A7%E5%93%81%20(2).jpg" alt="文创产品 (2)"  /> | <img src="https://rainjamesy-image-host.oss-cn-beijing.aliyuncs.com/img/%E6%96%87%E5%88%9B%E4%BA%A7%E5%93%81%20(3).jpg" alt="文创产品 (3)"  /> |
@@ -140,7 +150,27 @@ redirect_from:
 
 **【设计思路】**
 
-我们从《本草纲目》这一经典中医学著作入手，设计了一款“采药女-灵小菁”主IP及多款草药“药灵”IP，旨在以拟人化IP的形式宣传传统中医药文化，在当今中医药文化宣传同质化严重的情况下，打造一系列的《本草纲目》药灵IP形象，向人们传递“中医药”主题的国家品牌信息，让人们被拟人化IP所独有的憨态可掬的萌属性所吸引，大大降低了记忆传播成本，引起了网友的积极互动，提高了“《本草纲目》”乃至“中草药文化”这个中国品牌成功刷屏的几率，增强国家文化自信。
+- why choose 《本草纲目》系列IP创作？
+  - 在当今中医药文化宣传同质化严重的情况下，如果可以通过打造一系列的《本草纲目》药灵IP形象，向人们传递“中医药”主题的国家品牌信息，让人们被拟人化IP所独有的憨态可掬的萌属性所吸引，就可以大大降低了记忆传播成本，引起了网友的积极互动，提高了“《本草纲目》”乃至“中草药文化”这个中国品牌成功刷屏的几率，还兼有增强国家文化自信的目的。
+
+**【作品架构】**
+
+- 主作品：<a href="#IP图">IP设计</a>
+  - 首先重中之重的是，我们需要设计几款经典IP作为我们的核心形象，并使用海报来作为IP的第一载体和主要宣传载体
+  - 以枸杞为例：
+    - ![image-20230516014929995](https://rainjamesy-image-host.oss-cn-beijing.aliyuncs.com/img/image-20230516014929995.png)
+    - ![image-20230516015015619](https://rainjamesy-image-host.oss-cn-beijing.aliyuncs.com/img/image-20230516015015619.png)
+- 衍生作品：<a href="#漫画">多格漫画</a>
+  - 用漫画的形式，使得IP更为生动化，让人们被拟人化IP所独有的憨态可掬的萌属性所吸引，大大降低了记忆传播成本
+    - ![image-20230516015106281](https://rainjamesy-image-host.oss-cn-beijing.aliyuncs.com/img/image-20230516015106281.png)
+- 衍生作品：<a href="#表情包">表情包</a>
+  - 表情包也因其在信息时代的使用率，被纳入了我们的考虑范围内
+- 衍生作品：<a href="#信息图">草药信息图</a>
+  - 用信息图的形式，在IP宣传的同时辅以相关知识科普，达到了寓教于乐的目的
+    - ![image-20230516015227983](https://rainjamesy-image-host.oss-cn-beijing.aliyuncs.com/img/image-20230516015227983.png)
+    - ![image-20230516015256850](https://rainjamesy-image-host.oss-cn-beijing.aliyuncs.com/img/image-20230516015256850.png)
+- 衍生作品：<a href="#文创">文创设计</a>
+  - 将IP以漫画的形式融合到各种创意产品中，为后续商业化奠定基础
 
 
 
@@ -148,7 +178,9 @@ redirect_from:
 
 **【设计难点】**
 
-连熬很多个通宵算吗/(ㄒoㄒ)/~~
+重难点基本上就是之前的设计部分了！
+
+从选题到最后的作品呈现，没有一个环节是非常轻松就能完成的，这也感谢几位队友之间的默契配合，让我们团队效率大大提升；同时指导老师给予的关键点拨也让我们能够在ddl之前完成作品展示。
 
 
 
