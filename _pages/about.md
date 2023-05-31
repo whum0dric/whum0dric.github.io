@@ -177,7 +177,7 @@ redirect_from:
 
 
 
-# 📝Feedback and Update
+# 📝Feedback
 
 **【反馈与迭代】**
 
