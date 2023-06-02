@@ -21,6 +21,8 @@ redirect_from:
 
 # 🔥 News
 
+- 2023.6：小菁的表情包上线微信啦，欢迎大家订阅！详情点击[这里](https://sticker.weixin.qq.com/cgi-bin/mmemoticon-bin/emoticonview?oper=single&t=shop/detail&productid=aL2PCfwK/89qO7sF6/+I+UDhfwEjhec2ZNvdnLLJRd/NnOTD4VXL+btiiLe5UW0E0LiA/cWXxIbJm/c3C5EM40ZyxUlvvIkKELbqSM6Bic9w=)
+
 - 2023.5：小菁参加计算机设计大赛啦！
 - 2023.4：小菁的团队又推出了多款周边文创产品，点击导航栏查看哟！
 - 2023.4：有关枸杞、连翘和紫苑的药品信息设计图已经更新了！
@@ -103,7 +105,11 @@ redirect_from:
 | <img src="https://rainjamesy-image-host.oss-cn-beijing.aliyuncs.com/img/7.png" alt="7"  /> | <img src="https://rainjamesy-image-host.oss-cn-beijing.aliyuncs.com/img/8.png" alt="8"  /> | <img src="https://rainjamesy-image-host.oss-cn-beijing.aliyuncs.com/img/9.png" alt="9"  /> |
 | <img src="https://rainjamesy-image-host.oss-cn-beijing.aliyuncs.com/img/10.png" alt="10"  /> | <img src="https://rainjamesy-image-host.oss-cn-beijing.aliyuncs.com/img/11.png" alt="11"  /> | <img src="https://rainjamesy-image-host.oss-cn-beijing.aliyuncs.com/img/12.png" alt="12"  /> |
 
+表情包已经上线微信表情包平台了，可以直接**微信扫码**订阅使用喔！
 
+| <img src="https://rainjamesy-image-host.oss-cn-beijing.aliyuncs.com/img/image-20230602192158333.png" alt="image-20230602192158333" style="zoom:50%;" /> |
+| :----------------------------------------------------------: |
+| 或者直接访问订阅平台[链接](https://sticker.weixin.qq.com/cgi-bin/mmemoticon-bin/emoticonview?oper=single&t=shop/detail&productid=aL2PCfwK/89qO7sF6/+I+UDhfwEjhec2ZNvdnLLJRd/NnOTD4VXL+btiiLe5UW0E0LiA/cWXxIbJm/c3C5EM40ZyxUlvvIkKELbqSM6Bic9w=) |
 
 
 
