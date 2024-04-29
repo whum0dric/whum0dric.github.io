@@ -46,11 +46,6 @@ redirect_from:
 
 
 
-# 🎨 Comics
-
-
-
-
 # 😉 Emoji
 
 <a id="表情包"></a>
@@ -60,10 +55,6 @@ redirect_from:
 我们的的表情包上线啦，欢迎自取使用喔！
 ![](../images/sticker1.png)
 ![](../images/sticker2.png)
-
-
-
-# 🌿 Herb Info
 
 
 
