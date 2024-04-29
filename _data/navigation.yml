@@ -9,14 +9,14 @@ main:
   - title: "IP设计"
     url: "/#-figure-design"
           
-  - title: "多格漫画"
-    url: "/#-comics"
+  # - title: "多格漫画"
+  #   url: "/#-comics"
 
   - title: "表情包"
     url: "/#-emoji"
 
-  - title: "药品信息图"
-    url: "/#-herb-info"
+  # - title: "药品信息图"
+  #   url: "/#-herb-info"
 
   - title: "周边文创"
     url: "/#-cultural-products"
