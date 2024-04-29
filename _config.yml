@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "采药女-灵小菁的主页"
-description              : "计算机设计大赛数媒静态作品：“天精地华，济世益民”——《本草纲目》拟人IP创作及文创衍生设计。 "
-repository               : "Rain-YDY/Rain-YDY.github.io"
+title                    : "华夏科艺之花的主页"
+description              : "计算机设计大赛数媒静态作品："
+repository               : "whum0dric.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "采药女-灵小菁"
+  name             : "华夏科艺之花"
   avatar           : "images/avatar.png"
   bio              : "武汉大学"
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "rain.dongyu.yao@foxmail.com"
+  email            : "Luinage@outlook.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
