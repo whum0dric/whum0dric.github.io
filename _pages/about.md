@@ -102,7 +102,7 @@ redirect_from:
 
 | **设计初稿** | **色彩应用** | **概念发展** | **细节调整** | **最终作品** |
 |--------------|--------------|--------------|--------------|--------------|
-| ![设计初稿](../images/libing1.png) | ![概念发展](../images/libing2.png) | ![细节调整](../images/libing3.png) | ![色彩应用](../images/libing4.png) | ![最终作品](../images/libing5.png) |
+| ![设计初稿](../images/libing1.png) | ![概念发展](../images/libing2.png) | ![细节调整](../images/libing3.png) | ![色彩应用](../images/libing4.png) | ![最终作品](../images/libing5g.png) |
 
   - 【华夏科艺之花（科） 之 造纸宗匠-蔡伦】的设计过程
 
@@ -120,7 +120,7 @@ redirect_from:
 
 | **设计初稿** | **色彩应用** | **概念发展** | **细节调整** | **最终作品** |
 |--------------|--------------|--------------|--------------|--------------|
-| ![李冰设计初稿](../images/wangxizhi1.png) | ![李冰概念发展](../images/wangxizhi2.png) | ![李冰细节调整](../images/wangxizhi3.png) | ![李冰色彩应用](../images/wangxizhi4.png) | ![李冰最终作品](../images/wangxizhi5.png) |
+| ![李冰设计初稿](../images/wangxizhi1.png) | ![李冰概念发展](../images/wangxizhi2.png) | ![李冰细节调整](../images/wangxizhi3.png) | ![李冰色彩应用](../images/wangxizhi4.png) | ![李冰最终作品](../images/wangxizhi5g.png) |
 
   - 【华夏科艺之花（艺） 之 东方莎翁-汤显祖】的设计过程
 
