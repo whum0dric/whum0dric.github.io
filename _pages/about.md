@@ -84,12 +84,16 @@ redirect_from:
 **【作品架构】**
 - 主作品：<a href="#IP图">IP设计</a>
   - 首先重中之重的是，我们需要设计几款经典IP作为我们的核心形象，并使用海报来作为IP的第一载体和主要宣传载体
-  - 以李冰的设计过程为例：
+  - 以下是我们的设计过程：
   
 | **设计初稿** | **色彩应用** | **概念发展** | **细节调整** | **最终作品** |
 |--------------|--------------|--------------|--------------|--------------|
+| ![设计初稿](../images/libing1.png) | ![概念发展](../images/libing2.png) | ![细节调整](../images/libing3.png) | ![色彩应用](../images/libing4.png) | ![最终作品](../images/libing5.png) |
+| ![李冰设计初稿](../images/cailun1.png) | ![李冰概念发展](../images/libing2.png) | ![李冰细节调整](../images/libing3.png) | ![李冰色彩应用](../images/libing4.png) | ![李冰最终作品](../images/libing5.png) |
 | ![李冰设计初稿](../images/libing1.png) | ![李冰概念发展](../images/libing2.png) | ![李冰细节调整](../images/libing3.png) | ![李冰色彩应用](../images/libing4.png) | ![李冰最终作品](../images/libing5.png) |
-
+| ![李冰设计初稿](../images/libing1.png) | ![李冰概念发展](../images/libing2.png) | ![李冰细节调整](../images/libing3.png) | ![李冰色彩应用](../images/libing4.png) | ![李冰最终作品](../images/libing5.png) |
+| ![李冰设计初稿](../images/libing1.png) | ![李冰概念发展](../images/libing2.png) | ![李冰细节调整](../images/libing3.png) | ![李冰色彩应用](../images/libing4.png) | ![李冰最终作品](../images/libing5.png) |
+| ![李冰设计初稿](../images/libing1.png) | ![李冰概念发展](../images/libing2.png) | ![李冰细节调整](../images/libing3.png) | ![李冰色彩应用](../images/libing4.png) | ![李冰最终作品](../images/libing5.png) |
 - 衍生作品：<a href="#表情包">表情包</a>
   - 表情包也因其在信息时代的使用率，被纳入了我们的考虑范围内
 - 衍生作品：<a href="#文创">文创设计</a>
