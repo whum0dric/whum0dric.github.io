@@ -89,11 +89,12 @@ redirect_from:
 | **设计初稿** | **色彩应用** | **概念发展** | **细节调整** | **最终作品** |
 |--------------|--------------|--------------|--------------|--------------|
 | ![设计初稿](../images/libing1.png) | ![概念发展](../images/libing2.png) | ![细节调整](../images/libing3.png) | ![色彩应用](../images/libing4.png) | ![最终作品](../images/libing5.png) |
-| ![李冰设计初稿](../images/cailun1.png) | ![李冰概念发展](../images/libing2.png) | ![李冰细节调整](../images/libing3.png) | ![李冰色彩应用](../images/libing4.png) | ![李冰最终作品](../images/libing5.png) |
-| ![李冰设计初稿](../images/libing1.png) | ![李冰概念发展](../images/libing2.png) | ![李冰细节调整](../images/libing3.png) | ![李冰色彩应用](../images/libing4.png) | ![李冰最终作品](../images/libing5.png) |
-| ![李冰设计初稿](../images/libing1.png) | ![李冰概念发展](../images/libing2.png) | ![李冰细节调整](../images/libing3.png) | ![李冰色彩应用](../images/libing4.png) | ![李冰最终作品](../images/libing5.png) |
-| ![李冰设计初稿](../images/libing1.png) | ![李冰概念发展](../images/libing2.png) | ![李冰细节调整](../images/libing3.png) | ![李冰色彩应用](../images/libing4.png) | ![李冰最终作品](../images/libing5.png) |
-| ![李冰设计初稿](../images/libing1.png) | ![李冰概念发展](../images/libing2.png) | ![李冰细节调整](../images/libing3.png) | ![李冰色彩应用](../images/libing4.png) | ![李冰最终作品](../images/libing5.png) |
+| ![李冰设计初稿](../images/cailun1.png) | ![李冰概念发展](../images/cailun2.png) | ![李冰细节调整](../images/cailun3.png) | ![李冰色彩应用](../images/cailun4.png) | ![李冰最终作品](../images/cailun5.png) |
+| ![李冰设计初稿](../images/zuchongzi1.png) | ![李冰概念发展](../images/zuchongzi2.png) | ![李冰细节调整](../images/zuchongzi3.png) | ![李冰色彩应用](../images/zuchongzi4.png) | ![李冰最终作品](../images/zuchongzi5.png) |
+| ![李冰设计初稿](../images/tangxianzu1.png) | ![李冰概念发展](../images/tangxianzu2.png) | ![李冰细节调整](../images/tangxianzu3.png) | ![李冰色彩应用](../images/tangxianzu4.png) | ![李冰最终作品](../images/tangxianzu5.png) |
+| ![李冰设计初稿](../images/wangxizhi1.png) | ![李冰概念发展](../images/wangxizhi2.png) | ![李冰细节调整](../images/wangxizhi3.png) | ![李冰色彩应用](../images/wangxizhi4.png) | ![李冰最终作品](../images/wangxizhi5.png) |
+| ![李冰设计初稿](../images/wudaozi1.png) | ![李冰概念发展](../images/wudaozi2.png) | ![李冰细节调整](../images/wudaozi3.png) | ![李冰色彩应用](../images/wudaozi4.png) | ![李冰最终作品](../images/wudaozi5.png) |
+
 - 衍生作品：<a href="#表情包">表情包</a>
   - 表情包也因其在信息时代的使用率，被纳入了我们的考虑范围内
 - 衍生作品：<a href="#文创">文创设计</a>
